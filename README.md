@@ -17,7 +17,7 @@ This project uses **Linear Regression** to predict house prices based on various
 7. Evaluated the model using R² Score and Mean Squared Error.
 
 ## 🔧 Libraries Used
-
+```python
 - pandas
 - matplotlib
 - seaborn
