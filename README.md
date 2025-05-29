@@ -16,13 +16,6 @@ This project uses **Linear Regression** to predict house prices based on various
 6. Trained a Linear Regression model.
 7. Evaluated the model using R² Score and Mean Squared Error.
 
-## 🔧 Libraries Used
-```python
-- pandas
-- matplotlib
-- seaborn
-- scikit-learn
-
 ## 📊 Results
 
 - **R² Score**: *0.6495*
@@ -33,6 +26,20 @@ This project uses **Linear Regression** to predict house prices based on various
 - `housing_linear_regression.ipynb` – Jupyter Notebook with all code
 - `Housing.csv` – The dataset used
 - `requirements.txt` – Python packages used
+
+## 🔧 Libraries Used
+
+```python
+import pandas as pd
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+from sklearn.preprocessing import LabelEncoder, StandardScaler
+- pandas
+- matplotlib
+- seaborn
+- scikit-learn
+
 
 ---
 
